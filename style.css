@@ -104,8 +104,8 @@ span{
 
 .call-section{
     background-image:linear-gradient( to left, 
-        rgba(255,0,0,0),
-        rgba(255,0,0,1)), url(
+        rgba(84, 5, 5, 0),
+        rgb(247, 105, 105)), url(
 'images/watch.png');
     height: 301px;
     width: 1140px;  
@@ -115,8 +115,18 @@ span{
 .call-description
 {
     padding-left: 30px;
+    color: white;
     padding-top: 100px;
 }
+
+
+/* Next Year  */
+.next-plan
+{
+    padding: 150px 200px;
+}
+
+
 /* Subscribe Section */
 .subscribe{
     background-color: #000000;
